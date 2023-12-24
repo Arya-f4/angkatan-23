@@ -1,4 +1,4 @@
-# Agility CMS & Next.js Starter
+# Website angkatan 23 ceritanya
 
 This is sample Next.js starter site that uses Agility CMS and aims to be a foundation for building fully static sites using Next.js and Agility CMS.
 
