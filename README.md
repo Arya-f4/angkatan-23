@@ -14,14 +14,13 @@ This starter is written in TypeScript, with ESLint.
 
 ## Getting Started
 
-To start using the Agility CMS & Next.js Starter, [sign up](https://agilitycms.com/free) for a FREE account and create a new Instance using the Blog Template.
+To start using the Agility CMS & Next.js Starter,  for a FREE account and create a new Instance using the Blog Template.
 
 1. Clone this repository
 2. Run `npm install` or `yarn install`
 3. Rename the `.env.local.example` file to `.env.local`
-4. Retrieve your `GUID`, `API Keys (Preview/Fetch)`, and `Security Key` from Agility CMS by going to [Settings > API Keys](https://manager.agilitycms.com/settings/apikeys).
+4. Retrieve your `GUID`, `API Keys (Preview/Fetch)`, and `Security Key` from Agility CMS by going to
 
-[How to Retrieve your GUID and API Keys from Agility](https://help.agilitycms.com/hc/en-us/articles/360031919212-Retrieving-your-API-Key-s-Guid-and-API-URL-)
 
 ## Running the Site Locally
 
@@ -86,13 +85,12 @@ The easiest way to deploy a Next.js website to production is to use [Vercel](htt
 
 ### Community
 
-- [Official Slack](https://agilitycms.com/join-slack)
-- [Blog](https://agilitycms.com/resources/posts)
-- [GitHub](https://github.com/agility)
+- [Blog]
+- [GitHub](https://github.com/Arya-f4/angkatan-23)
 
-- [LinkedIn](https://www.linkedin.com/company/agilitycms)
-- [X](https://x.com/agilitycms)
-- [Facebook](https://www.facebook.com/AgilityCMS/)
+- [LinkedIn]
+- [X]
+- [Facebook]
 
 ## Feedback and Questions
 
