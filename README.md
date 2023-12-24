@@ -65,10 +65,6 @@ The easiest way to deploy a Next.js website to production is to use [Vercel](htt
 
 ## Resources
 
-### Agility CMS
-
-- [Official site](https://agilitycms.com)
-- [Documentation](https://agilitycms.com/docs)
 
 ### Next.js
 
