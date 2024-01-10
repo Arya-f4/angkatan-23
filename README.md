@@ -1,5 +1,7 @@
 # Website angkatan 23 ceritanya
-Ya gua tau ada ENV LMAO, gpp get doang kok
+# Ya gua tau ada ENV LMAO, gpp GET doang kok
+
+
 This is sample Next.js starter site that uses Agility CMS and aims to be a foundation for building fully static sites using Next.js and Agility CMS.
 
 
